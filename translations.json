@@ -1,0 +1,928 @@
+{
+    "en": {
+        "header": {
+            "logo": {
+                "text": "MarketingHub",
+                "description": "Professional solar panel services"
+            },
+            "navigation": {
+                "items": [
+                    {
+                        "label": "Problem",
+                        "href": "problem"
+                    },
+                    {
+                        "label": "Services",
+                        "href": "services"
+                    },
+                    {
+                        "label": "Benefits",
+                        "href": "benefits"
+                    },
+                    {
+                        "label": "Pricing",
+                        "href": "pricing"
+                    },
+                    {
+                        "label": "Contact",
+                        "href": "contact"
+                    }
+                ],
+                "ctaButton": {
+                    "text": "Get Free Quote",
+                    "href": "mailto:info@solarnidoktor.cz"
+                }
+            }
+        },
+        "hero": {
+            "badge": {
+                "text": "For Businesses",
+                "icon": "Sparkles"
+            },
+            "heading": {
+                "main": "Professional Solar Panel",
+                "highlight": "Installation & Maintenance",
+                "subheading": "Maximum Energy Production & System Longevity"
+            },
+            "description": {
+                "formula": {
+                    "dirty": "Dirty panels",
+                    "lost": "Lost energy",
+                    "reduced": "Reduced profits"
+                },
+                "details": "Professional solar panel services maximize energy production and protect your investment. Expert installation, maintenance, and optimization for commercial solar systems."
+            },
+            "buttons": {
+                "primary": {
+                    "text": "Get Free Quote",
+                    "href": "mailto:info@solarnidoktor.cz"
+                },
+                "secondary": {
+                    "text": "Watch Demo",
+                    "action": "scrollToContact"
+                }
+            }
+        },
+        "problem": {
+            "badge": {
+                "text": "The Hidden Cost",
+                "icon": "TrendingDown"
+            },
+            "heading": "How Much Are Dirty Panels Costing You?",
+            "description": "Uncleaned solar panels are silently draining your profits. Here's the expensive reality most businesses ignore."
+        },
+        "services": {
+            "badge": {
+                "text": "Our Services",
+                "icon": "Star"
+            },
+            "heading": "Professional Solar Maintenance",
+            "description": "Maximum performance, guaranteed results.",
+            "servicesWithIcons": [
+                {
+                    "title": "Panel Cleaning",
+                    "description": "Professional deep cleaning of solar panels",
+                    "iconName": "Droplets",
+                    "gradient": "from-blue-500 to-cyan-500"
+                },
+                {
+                    "title": "Performance Analysis",
+                    "description": "Monitor and analyze energy output",
+                    "iconName": "BarChart3",
+                    "gradient": "from-green-500 to-emerald-500"
+                },
+                {
+                    "title": "System Monitoring",
+                    "description": "24\/7 real-time system monitoring",
+                    "iconName": "Monitor",
+                    "gradient": "from-indigo-500 to-sky-500"
+                },
+                {
+                    "title": "Maintenance Reports",
+                    "description": "Detailed service and performance reports",
+                    "iconName": "FileText",
+                    "gradient": "from-yellow-400 to-orange-500"
+                }
+            ],
+            "processWithIcons": {
+                "steps": [
+                    {
+                        "step": "1",
+                        "title": "Inspection",
+                        "desc": "Comprehensive system assessment",
+                        "iconName": "Shield"
+                    },
+                    {
+                        "step": "2",
+                        "title": "Cleaning",
+                        "desc": "Professional panel cleaning",
+                        "iconName": "Droplets"
+                    },
+                    {
+                        "step": "3",
+                        "title": "Analysis",
+                        "desc": "Performance optimization",
+                        "iconName": "BarChart3"
+                    },
+                    {
+                        "step": "4",
+                        "title": "Report",
+                        "desc": "Detailed service documentation",
+                        "iconName": "FileText"
+                    }
+                ]
+            }
+        },
+        "contact": {
+            "badge": {
+                "text": "Get Started"
+            },
+            "heading": "Want to Calculate How Much You're Losing?",
+            "description": "We price each project individually based on system size and type. Contact us for a free consultation and quote.",
+            "form": {
+                "title": "Free Quote Request",
+                "fields": {
+                    "name": {
+                        "label": "Full Name *",
+                        "placeholder": "John Smith"
+                    },
+                    "email": {
+                        "label": "Email *",
+                        "placeholder": "john@company.com"
+                    },
+                    "company": {
+                        "label": "Company Name *",
+                        "placeholder": "Your Company Inc."
+                    }
+                }
+            }
+        },
+        "benefits": {
+            "badge": {
+                "text": "Smart Investment",
+                "icon": "BarChart3"
+            },
+            "heading": "Maintenance = Investment That Pays Back",
+            "description": "Professional solar maintenance isn't a cost—it's a strategic investment that delivers measurable returns.",
+            "items": [
+                {
+                    "title": "Increased Panel Efficiency",
+                    "description": "Maximize energy output and system performance",
+                    "value": "95%"
+                },
+                {
+                    "title": "Warranty Protection & System Longevity",
+                    "description": "Maintain manufacturer warranties and extend system life",
+                    "value": "100%"
+                },
+                {
+                    "title": "Fault Prevention & Extended Inverter Life",
+                    "description": "Prevent costly repairs and system downtime",
+                    "value": "85%"
+                }
+            ],
+            "features": [
+                {
+                    "title": "Smart Investment Returns",
+                    "description": "Every dollar spent on maintenance returns multiple dollars in energy savings"
+                },
+                {
+                    "title": "Performance Monitoring",
+                    "description": "Real-time tracking and optimization recommendations for peak efficiency"
+                },
+                {
+                    "title": "Predictive Maintenance",
+                    "description": "Prevent issues before they occur, ensuring continuous optimal performance"
+                },
+                {
+                    "title": "Quality Assurance",
+                    "description": "Professional standards that protect your investment and maximize ROI"
+                }
+            ],
+            "roi": {
+                "heading": "Proven ROI: Every $1 Invested Returns $3-5",
+                "description": "Professional maintenance doesn't just protect your solar investment—it multiplies its value through increased efficiency, extended lifespan, and reduced repair costs."
+            }
+        },
+        "pricing": {
+            "badge": {
+                "text": "Pricing Plans",
+                "icon": "Star"
+            },
+            "heading": "Choose Your Solar Maintenance Plan",
+            "description": "Transparent pricing, maximum value. Start saving money today.",
+            "plans": [
+                {
+                    "name": "Basic Clean",
+                    "price": "$299",
+                    "period": "\/month",
+                    "description": "Perfect for small commercial systems",
+                    "features": [
+                        "Monthly cleaning service",
+                        "Basic performance report",
+                        "Email support",
+                        "Weekend scheduling"
+                    ]
+                },
+                {
+                    "name": "Professional",
+                    "price": "$599",
+                    "period": "\/month",
+                    "description": "Most popular for medium businesses",
+                    "features": [
+                        "Bi-weekly cleaning service",
+                        "Detailed analytics reports",
+                        "24\/7 priority support",
+                        "Performance optimization",
+                        "Insurance documentation",
+                        "Flexible scheduling"
+                    ],
+                    "popular": "true"
+                },
+                {
+                    "name": "Enterprise",
+                    "price": "Custom",
+                    "period": "",
+                    "description": "Complete solution for large facilities",
+                    "features": [
+                        "Weekly cleaning service",
+                        "Real-time monitoring",
+                        "Dedicated account manager",
+                        "Emergency response",
+                        "Predictive maintenance",
+                        "Full compliance reporting",
+                        "Custom SLA agreement"
+                    ]
+                }
+            ],
+            "badges": [
+                {
+                    "title": "Fully Insured",
+                    "description": "Complete coverage included"
+                },
+                {
+                    "title": "Satisfaction Guaranteed",
+                    "description": "100% money-back guarantee"
+                },
+                {
+                    "title": "Instant ROI",
+                    "description": "See results from day one"
+                }
+            ],
+            "buttons": {
+                "getStarted": "Get Started",
+                "contactSales": "Contact Sales",
+                "mostPopular": "Most Popular"
+            }
+        },
+        "analytics": {
+            "badge": {
+                "text": "Solar Analytics",
+                "icon": "BarChart3"
+            },
+            "heading": "Real-Time Solar Panel Performance",
+            "description": "Professional monitoring and optimization for maximum solar energy production.",
+            "performance": [
+                {
+                    "title": "Solar Panel Efficiency",
+                    "description": "Current panel efficiency after regular maintenance"
+                },
+                {
+                    "title": "Energy Production",
+                    "description": "Daily energy output can be improved"
+                },
+                {
+                    "title": "System Performance",
+                    "description": "Overall system efficiency rating"
+                },
+                {
+                    "title": "Panel Condition",
+                    "description": "Physical condition of solar panels"
+                }
+            ],
+            "maintenance": {
+                "before": {
+                    "title": "Before Professional Cleaning",
+                    "issues": [
+                        "Dust accumulation",
+                        "Bird droppings",
+                        "Partial shading"
+                    ]
+                },
+                "after": {
+                    "title": "After Professional Cleaning",
+                    "issues": [
+                        "Optimal sunlight exposure",
+                        "Clean surface",
+                        "Maximum efficiency"
+                    ]
+                }
+            },
+            "monitoring": {
+                "heading": "Live System Monitoring",
+                "description": "Real-time performance metrics for your solar installation",
+                "metrics": [
+                    {
+                        "name": "Inverter Efficiency",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "String Performance",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "Panel Temperature",
+                        "unit": "°C"
+                    },
+                    {
+                        "name": "Daily Output",
+                        "unit": "kWh"
+                    }
+                ],
+                "recommendation": {
+                    "text": "Professional Maintenance Recommended",
+                    "description": "Schedule cleaning to achieve optimal performance"
+                }
+            }
+        },
+        "footer": {
+            "logo": {
+                "text": "MarketingHub",
+                "description": "Professional solar panel maintenance and cleaning for businesses. Maximize your photovoltaic performance.",
+                "badge": "Professional • Certified • Reliable"
+            },
+            "services": {
+                "heading": "Our Services",
+                "items": [
+                    "Regular Solar Cleaning",
+                    "Performance Monitoring",
+                    "System Optimization",
+                    "Certified Inspections",
+                    "Technical Consulting"
+                ]
+            },
+            "quickLinks": {
+                "heading": "Quick Links",
+                "items": [
+                    {
+                        "label": "Pricing Plans",
+                        "href": "#pricing"
+                    },
+                    {
+                        "label": "Our Services",
+                        "href": "#services"
+                    },
+                    {
+                        "label": "Analytics",
+                        "href": "#analytics"
+                    },
+                    {
+                        "label": "Get Quote",
+                        "href": "#contact"
+                    }
+                ]
+            },
+            "contact": {
+                "heading": "Contact Info",
+                "email": "info@MarketingHub.com",
+                "phone": "+1 (555) 123-4567",
+                "location": "Nationwide Service"
+            },
+            "legal": {
+                "copyright": "MarketingHub. All rights reserved.",
+                "links": [
+                    {
+                        "label": "Privacy Policy",
+                        "href": "#"
+                    },
+                    {
+                        "label": "Terms of Service",
+                        "href": "#"
+                    },
+                    {
+                        "label": "Cookie Policy",
+                        "href": "#"
+                    }
+                ]
+            }
+        },
+        "common": {
+            "buttons": {
+                "learnMore": "Learn More",
+                "getQuote": "Get Quote",
+                "contactUs": "Contact Us",
+                "viewDetails": "View Details"
+            },
+            "stats": [
+                {
+                    "label": "Energy Increase",
+                    "color": "text-success"
+                },
+                {
+                    "label": "Monthly Savings",
+                    "color": "text-primary"
+                },
+                {
+                    "label": "Efficiency",
+                    "color": "text-warning"
+                }
+            ],
+            "features": [
+                {
+                    "title": "Warranty",
+                    "desc": "5-Year Protection"
+                },
+                {
+                    "title": "Fast Service",
+                    "desc": "24h Response"
+                },
+                {
+                    "title": "Expert Team",
+                    "desc": "Certified Staff"
+                },
+                {
+                    "title": "Precision",
+                    "desc": "99% Accuracy"
+                }
+            ],
+            "tabs": {
+                "benefits": "Benefits",
+                "features": "Features"
+            },
+            "floatingCards": {
+                "performance": {
+                    "title": "Performance",
+                    "value": "98%"
+                },
+                "efficiency": {
+                    "badge": "Optimized",
+                    "value": "High",
+                    "label": "Status"
+                }
+            }
+        }
+    },
+    "cs": {
+        "header": {
+            "logo": {
+                "text": "Solární Pro",
+                "description": "Profesionální služby solárních panelů"
+            },
+            "navigation": {
+                "items": [
+                    {
+                        "label": "Problém",
+                        "href": "problem"
+                    },
+                    {
+                        "label": "Služby",
+                        "href": "services"
+                    },
+                    {
+                        "label": "Výhody",
+                        "href": "benefits"
+                    },
+                    {
+                        "label": "Ceník",
+                        "href": "pricing"
+                    },
+                    {
+                        "label": "Kontakt",
+                        "href": "contact"
+                    }
+                ],
+                "ctaButton": {
+                    "text": "Získat Zdarma Nabídku",
+                    "href": "mailto:info@solarnidoktor.cz"
+                }
+            }
+        },
+        "hero": {
+            "badge": {
+                "text": "Pro Firmy",
+                "icon": "Sparkles"
+            },
+            "heading": {
+                "main": "Profesionální Solární Panely",
+                "highlight": "Instalace a Údržba",
+                "subheading": "Maximální Výroba Energie a Životnost Systému"
+            },
+            "description": {
+                "formula": {
+                    "dirty": "Špinavé panely",
+                    "lost": "Ztracená energie",
+                    "reduced": "Snížené zisky"
+                },
+                "details": "Profesionální služby solárních panelů maximalizují výrobu energie a chrání vaši investici. Odborná instalace, údržba a optimalizace komerčních solárních systémů."
+            },
+            "buttons": {
+                "primary": {
+                    "text": "Získat Zdarma Nabídku",
+                    "href": "mailto:info@solarnidoktor.cz"
+                },
+                "secondary": {
+                    "text": "Sledovat Demo",
+                    "action": "scrollToContact"
+                }
+            }
+        },
+        "problem": {
+            "badge": {
+                "text": "Skryté Náklady",
+                "icon": "TrendingDown"
+            },
+            "heading": "Kolik Vás Stojí Špinavé Panely?",
+            "description": "Nečištěné solární panely tiše odčerpávají vaše zisky. Zde je drahá realita, kterou většina firem ignoruje."
+        },
+        "services": {
+            "badge": {
+                "text": "Naše Služby",
+                "icon": "Star"
+            },
+            "heading": "Profesionální Údržba Solárních Systémů",
+            "description": "Maximální výkon, zaručené výsledky.",
+            "servicesWithIcons": [
+                {
+                    "title": "Čištění Panelů",
+                    "description": "Profesionální hloubkové čištění solárních panelů",
+                    "iconName": "Droplets",
+                    "gradient": "from-blue-500 to-cyan-500"
+                },
+                {
+                    "title": "Analýza Výkonu",
+                    "description": "Sledování a analýza výroby energie",
+                    "iconName": "BarChart3",
+                    "gradient": "from-green-500 to-emerald-500"
+                },
+                {
+                    "title": "Monitorování Systému",
+                    "description": "24\/7 sledování systému v reálném čase",
+                    "iconName": "Monitor",
+                    "gradient": "from-purple-500 to-indigo-500"
+                },
+                {
+                    "title": "Zprávy o Údržbě",
+                    "description": "Podrobné zprávy o servisu a výkonu",
+                    "iconName": "FileText",
+                    "gradient": "from-orange-500 to-red-500"
+                }
+            ],
+            "processWithIcons": {
+                "steps": [
+                    {
+                        "step": "1",
+                        "title": "Inspekce",
+                        "desc": "Komplexní hodnocení systému",
+                        "iconName": "Shield"
+                    },
+                    {
+                        "step": "2",
+                        "title": "Čištění",
+                        "desc": "Profesionální čištění panelů",
+                        "iconName": "Droplets"
+                    },
+                    {
+                        "step": "3",
+                        "title": "Analýza",
+                        "desc": "Optimalizace výkonu",
+                        "iconName": "BarChart3"
+                    },
+                    {
+                        "step": "4",
+                        "title": "Zpráva",
+                        "desc": "Podrobná dokumentace servisu",
+                        "iconName": "FileText"
+                    }
+                ]
+            }
+        },
+        "contact": {
+            "badge": {
+                "text": "Začít"
+            },
+            "heading": "Chcete Spočítat, Kolik Ztrácíte?",
+            "description": "Oceňujeme každý projekt individuálně podle velikosti a typu systému. Kontaktujte nás pro bezplatnou konzultaci a nabídku.",
+            "form": {
+                "title": "Žádost o Bezplatnou Nabídku",
+                "fields": {
+                    "name": {
+                        "label": "Celé Jméno *",
+                        "placeholder": "Jan Novák"
+                    },
+                    "email": {
+                        "label": "Email *",
+                        "placeholder": "jan@firma.cz"
+                    },
+                    "company": {
+                        "label": "Název Firmy *",
+                        "placeholder": "Vaše Firma s.r.o."
+                    }
+                }
+            }
+        },
+        "benefits": {
+            "badge": {
+                "text": "Chytrá Investice",
+                "icon": "BarChart3"
+            },
+            "heading": "Údržba = Investice Která Se Vrátí",
+            "description": "Profesionální údržba solárních panelů není náklad—je to strategická investice s měřitelnými výnosy.",
+            "items": [
+                {
+                    "title": "Zvýšená Efektivita Panelů",
+                    "description": "Maximalizujte výrobu energie a výkon systému",
+                    "value": "95%"
+                },
+                {
+                    "title": "Ochrana Záruky a Životnost Systému",
+                    "description": "Udržujte záruky výrobců a prodlužte životnost systému",
+                    "value": "100%"
+                },
+                {
+                    "title": "Prevence Poruch a Prodloužení Životnosti Střídače",
+                    "description": "Předcházejte nákladným opravám a výpadkům systému",
+                    "value": "85%"
+                }
+            ],
+            "features": [
+                {
+                    "title": "Chytré Investiční Výnosy",
+                    "description": "Každý dolar investovaný do údržby vrátí několik dolarů v úsporách energie"
+                },
+                {
+                    "title": "Monitorování Výkonu",
+                    "description": "Sledování v reálném čase a doporučení optimalizace pro špičkovou efektivitu"
+                },
+                {
+                    "title": "Prediktivní Údržba",
+                    "description": "Předcházejte problémům dříve, než nastanou, zajistěte nepřetržitý optimální výkon"
+                },
+                {
+                    "title": "Zajištění Kvality",
+                    "description": "Profesionální standardy které chrání vaši investici a maximalizují návratnost"
+                }
+            ],
+            "roi": {
+                "heading": "Prokázaný ROI: Každý $1 Investovaný Vrátí $3-5",
+                "description": "Profesionální údržba nejen chrání vaši solární investici—násobí její hodnotu prostřednictvím zvýšené efektivity, prodloužené životnosti a snížených nákladů na opravy."
+            }
+        },
+        "pricing": {
+            "badge": {
+                "text": "Cenové Plány",
+                "icon": "Star"
+            },
+            "heading": "Vyberte Si Váš Plán Údržby Solárních Panelů",
+            "description": "Transparentní ceny, maximální hodnota. Začněte šetřit peníze už dnes.",
+            "plans": [
+                {
+                    "name": "Základní Čištění",
+                    "price": "$299",
+                    "period": "\/měsíc",
+                    "description": "Perfektní pro malé komerční systémy",
+                    "features": [
+                        "Měsíční čistící služba",
+                        "Základní zpráva o výkonu",
+                        "E-mailová podpora",
+                        "Víkendové plánování"
+                    ]
+                },
+                {
+                    "name": "Profesionální",
+                    "price": "$599",
+                    "period": "\/měsíc",
+                    "description": "Nejpopulárnější pro střední firmy",
+                    "features": [
+                        "Čtrnáctidenní čistící služba",
+                        "Podrobné analytické zprávy",
+                        "24\/7 prioritní podpora",
+                        "Optimalizace výkonu",
+                        "Pojišťovací dokumentace",
+                        "Flexibilní plánování"
+                    ],
+                    "popular": true
+                },
+                {
+                    "name": "Podnikový",
+                    "price": "Na Míru",
+                    "period": "",
+                    "description": "Kompletní řešení pro velká zařízení",
+                    "features": [
+                        "Týdenní čistící služba",
+                        "Monitorování v reálném čase",
+                        "Specializovaný account manager",
+                        "Nouzová odezva",
+                        "Prediktivní údržba",
+                        "Úplné zprávy o souladu",
+                        "Vlastní SLA dohoda"
+                    ]
+                }
+            ],
+            "badges": [
+                {
+                    "title": "Plně Pojištěno",
+                    "description": "Kompletní krytí zahrnuto"
+                },
+                {
+                    "title": "Záruka Spokojenosti",
+                    "description": "100% záruka vrácení peněz"
+                },
+                {
+                    "title": "Okamžitý ROI",
+                    "description": "Viditelné výsledky od prvního dne"
+                }
+            ],
+            "buttons": {
+                "getStarted": "Začít",
+                "contactSales": "Kontaktovat Prodej",
+                "mostPopular": "Nejpopulárnější"
+            }
+        },
+        "analytics": {
+            "badge": {
+                "text": "Solární Analytika",
+                "icon": "BarChart3"
+            },
+            "heading": "Výkon Solárních Panelů v Reálném Čase",
+            "description": "Profesionální monitorování a optimalizace pro maximální výrobu solární energie.",
+            "performance": [
+                {
+                    "title": "Efektivita Solárních Panelů",
+                    "description": "Současná efektivita panelů po pravidelné údržbě"
+                },
+                {
+                    "title": "Výroba Energie",
+                    "description": "Denní výstup energie lze zlepšit"
+                },
+                {
+                    "title": "Výkon Systému",
+                    "description": "Celkové hodnocení efektivity systému"
+                },
+                {
+                    "title": "Stav Panelů",
+                    "description": "Fyzický stav solárních panelů"
+                }
+            ],
+            "maintenance": {
+                "before": {
+                    "title": "Před Profesionálním Čištěním",
+                    "issues": [
+                        "Hromadění prachu",
+                        "Ptačí trus",
+                        "Částečné stínění"
+                    ]
+                },
+                "after": {
+                    "title": "Po Profesionálním Čištění",
+                    "issues": [
+                        "Optimální vystavení slunci",
+                        "Čistý povrch",
+                        "Maximální efektivita"
+                    ]
+                }
+            },
+            "monitoring": {
+                "heading": "Živé Monitorování Systému",
+                "description": "Metriky výkonu v reálném čase pro vaši solární instalaci",
+                "metrics": [
+                    {
+                        "name": "Efektivita Střídače",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "Výkon Řetězce",
+                        "unit": "%"
+                    },
+                    {
+                        "name": "Teplota Panelů",
+                        "unit": "°C"
+                    },
+                    {
+                        "name": "Denní Výstup",
+                        "unit": "kWh"
+                    }
+                ],
+                "recommendation": {
+                    "text": "Doporučujeme Profesionální Údržbu",
+                    "description": "Naplánujte čištění pro dosažení optimálního výkonu"
+                }
+            }
+        },
+        "footer": {
+            "logo": {
+                "text": "Solární Pro",
+                "description": "Profesionální údržba a čištění solárních panelů pro firmy. Maximalizujte výkon vaší fotovoltaiky.",
+                "badge": "Profesionální • Certifikované • Spolehlivé"
+            },
+            "services": {
+                "heading": "Naše Služby",
+                "items": [
+                    "Pravidelné Čištění Solárních Panelů",
+                    "Monitorování Výkonu",
+                    "Optimalizace Systému",
+                    "Certifikované Inspekce",
+                    "Technické Poradenství"
+                ]
+            },
+            "quickLinks": {
+                "heading": "Rychlé Odkazy",
+                "items": [
+                    {
+                        "label": "Cenové Plány",
+                        "href": "#pricing"
+                    },
+                    {
+                        "label": "Naše Služby",
+                        "href": "#services"
+                    },
+                    {
+                        "label": "Analytika",
+                        "href": "#analytics"
+                    },
+                    {
+                        "label": "Získat Nabídku",
+                        "href": "#contact"
+                    }
+                ]
+            },
+            "contact": {
+                "heading": "Kontaktní Informace",
+                "email": "info@MarketingHub.com",
+                "phone": "+1 (555) 123-4567",
+                "location": "Celostátní Služba"
+            },
+            "legal": {
+                "copyright": "Solární Pro. Všechna práva vyhrazena.",
+                "links": [
+                    {
+                        "label": "Zásady Ochrany Osobních Údajů",
+                        "href": "#"
+                    },
+                    {
+                        "label": "Podmínky Služby",
+                        "href": "#"
+                    },
+                    {
+                        "label": "Zásady Cookies",
+                        "href": "#"
+                    }
+                ]
+            }
+        },
+        "common": {
+            "buttons": {
+                "learnMore": "Zjistit Více",
+                "getQuote": "Získat Nabídku",
+                "contactUs": "Kontaktujte Nás",
+                "viewDetails": "Zobrazit Detaily"
+            },
+            "stats": [
+                {
+                    "label": "Zvýšení Energie",
+                    "color": "text-success"
+                },
+                {
+                    "label": "Měsíční Úspory",
+                    "color": "text-primary"
+                },
+                {
+                    "label": "Efektivita",
+                    "color": "text-warning"
+                }
+            ],
+            "features": [
+                {
+                    "title": "Záruka",
+                    "desc": "5letá Ochrana"
+                },
+                {
+                    "title": "Rychlá Služba",
+                    "desc": "24h Odezva"
+                },
+                {
+                    "title": "Expertní Tým",
+                    "desc": "Certifikovaný Personál"
+                },
+                {
+                    "title": "Přesnost",
+                    "desc": "99% Přesnost"
+                }
+            ],
+            "tabs": {
+                "benefits": "Výhody",
+                "features": "Funkce"
+            },
+            "floatingCards": {
+                "performance": {
+                    "title": "Výkon",
+                    "value": "98%"
+                },
+                "efficiency": {
+                    "badge": "Optimalizováno",
+                    "value": "Vysoký",
+                    "label": "Stav"
+                }
+            }
+        }
+    }
+}
